@@ -83,7 +83,7 @@ DATABASES = {
         'NAME': 'keyDevTask',
         'USER': 'student',
         'PASSWORD': 'chocolatefrog',
-        'HOST': 'localhost',
+        'HOST': 'db',
         'PORT': '5432',
     }
 }
